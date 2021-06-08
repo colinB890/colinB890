@@ -1,5 +1,1 @@
-My name is Colin Burgess. 
-My areas of interest are in data science and programming. 
-My specific areas of knowledge are in Python, and C++. 
-I believe in incorporating my love of logic/philosophy with my programming. 
-Contact me at ColinBurgess890@Gmail.com
+This is a simple grading app developed in C++. It makes compiling student grades easier, and it displays them to a table, and dumps them to a csv file. Also allows for editing grades later on. 
